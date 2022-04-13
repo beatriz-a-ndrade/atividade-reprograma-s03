@@ -3,25 +3,25 @@
 ## O que aprendi na Semana 03 do curso backend {Reprograma}? <h2>
 
 ### 01. Conteúdo :memo: <h3>
-* Lógica Aplicada;
-* Funções: O que são? Quando usar? Como declarar? Como nomear?;
-* Escopo: Refere-se ao lugar em seu algoritmo ou funções ( Escopo global/ Escopo local / Escopo léxico)
-* Condicional: Instruções de controle aplicado à 2 Estruturas condicionais (if... else) / (switch)
+* **Lógica Aplicada**: loop, escopo, função;
+* **Funções:** O que são? Quando usar? Como declarar? Como nomear?;
+* **Escopo:** Refere-se ao lugar em seu algoritmo ou funções ( Escopo global/ Escopo local / Escopo léxico);
+* **Condicional:** Instruções de controle aplicando 2 Estruturas condicionais (if... else) / (switch).
 
 ### 02. O que praticamos? :muscle:<h3>
-* Resolução de problemas matemáticos/lógicos utilizando Estruturas Condicionais; 
-* Prática com 10 exemplos resolvidos em sala de aula
-* Atividade para casa com mais prática (7 questões - Desafios);
+* Resolução de problemas matemáticos/lógicos utilizando Estruturas Condicionais;
+* Prática com 10 exemplos resolvidos em sala de aula;
+* Atividade para casa com mais prática (7 questões - Desafios).
   
 ### 03. Conhecimentos usados nos estudos/prática :computer: <h3>
 * Gitbash e Github;
-* Resolução de problemas lógicos matemáticos;
+* Lógica aplicada para resolução de problemas lógicos/ matemáticos;
 * Vscode;
 * Node.js;
 * Sintaxe JavaScript;
 * Operadores;
 * Funções;
-* Estrutura condicional (if...else)
+* Estrutura condicional: (*if...else*) / (*switch*).
 
 ### 04. Atividade de casa :house: <h3>
 **1 -** Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
