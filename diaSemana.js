@@ -1,4 +1,4 @@
-// [Desafio 01] : Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
+//[Desafio 01] : Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
 
 const dia = 0
 function diaSemana(dia) {
